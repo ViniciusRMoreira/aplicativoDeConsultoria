@@ -1,6 +1,6 @@
-# imobiliaria
+# App de consultoria 
 
-A new Flutter project.
+Criado somente para estudo de navegação entre telas
 
 ## Getting Started
 
